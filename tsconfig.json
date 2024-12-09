@@ -1,0 +1,15 @@
+{
+	"compilerOptions": {
+		"target": "ES6",
+		"module": "ESNext",
+		"lib": ["ES6", "DOM", "DOM.Iterable"],
+		"moduleResolution": "node",
+		"declaration": true,
+		"outDir": "dist/",
+		"rootDir": "src/",
+		"strict": true,
+		"sourceMap": true
+	},
+	"exclude": ["node_modules"],
+	"include": ["src"]
+}
